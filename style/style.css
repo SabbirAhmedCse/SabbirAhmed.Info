@@ -98,7 +98,6 @@ a {
 .header-section h2 {
     font-size: 33px;
     letter-spacing: 2px;
-    white-space: 3px;
 }
 
 /*-----------------------
@@ -195,7 +194,6 @@ a {
 .works h2 {
     font-size: 40px;
     padding-bottom: 50px;
-    white-space: 4px;
     letter-spacing: 2px;
 }
 
@@ -230,7 +228,6 @@ a {
 .contact h2 {
     text-transform: uppercase;
     letter-spacing: 2px;
-    white-space: 4px;
     padding-bottom: 50px;
     font-size: 40px;
 }
@@ -335,4 +332,3 @@ button:hover {
 .backtotop:hover {
     opacity: 1;
 }
-*/
