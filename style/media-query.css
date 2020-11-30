@@ -1,0 +1,80 @@
+@media all and (max-width: 1200px) {
+    .header-design h1 {
+        font-size: 25px;
+    }
+    .nav-manu a{
+    font-size: 16px;
+    padding: 27px 10px;
+    }
+    .header-section h1{
+        font-size: 30px;
+    }
+    .header-section p{
+        font-size: 16px;
+    }
+    .personal-info img{
+        width: 30%;
+        height: auto;
+    }
+    .personal-info h1{
+        font-size: 25px;
+    }
+    .personal-info h3{
+        font-size: 25px;
+    }
+    .experience{
+        flex-direction: column;
+    }
+    .ability{
+        width: 100%;
+        padding: 20px 0;
+    }
+    .ability p{
+        margin-top: 0px;
+    }
+    .works h1{
+        font-size: 30px;
+    }
+    .works-gallery{
+        justify-content: space-around;
+    }
+    .works-gallery img{
+        width: 48%;
+    }
+    .contact h1{
+        font-size: 30px;
+    }
+    .contact button{
+        font-size: 20px;
+    }
+}
+
+@media all and (max-width:991px){
+    .header-design {
+        flex-direction: column;
+    }
+    .header-design h1{
+        font-size: 25px;
+    }
+    .nav-manu a{
+    padding: 5px 2px;
+    font-size: 16px;
+    
+    }
+    .works-gallery img{
+        width: 90%;
+        height: auto;
+    }
+}
+
+@media all and (max-width:768px){
+   
+}
+
+@media all and (max-width:480px){
+    
+}
+
+@media all and (max-width:320px){
+    
+}
